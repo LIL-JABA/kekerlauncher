@@ -1,0 +1,16 @@
+{
+    "Download":{
+        "valkeker":"https://github.com/LIL-JABA/valchecker/archive/refs/heads/main.zip"
+    },
+    "Checksum":{
+        "valkeker":"https://raw.githubusercontent.com/WeCanCodeTrust/valcheckerchecksum/main/checksum"
+    },
+    "Requirements":{
+        "valkeker":"https://raw.githubusercontent.com/WeCanCodeTrust/valcheckerrequirements/main/requirement"
+    },
+    "Miscellaneous":{
+        "pip":"https://bootstrap.pypa.io/get-pip.py",
+        "version":"",
+        "kekers":""
+    }
+}
