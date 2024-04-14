@@ -38,7 +38,12 @@ def keker_select(): # let u select a keker
 #
 def get_kekers(): # gets all avabile kekers as well as theyre requiremtents checksum and download links
     load_globals()
-    pass
+    kekerlist = []
+    kekers = requests.get(settings["Miscellaneous"]["kekers"]).text.split(":")
+    for keker,descripton,creator in kekers:
+        print(f"kekername: {keker} | {descripton} | made by {creator}")
+        kekerlist.append(keker[descripton,creator])
+    print(kekerlist)
 #
 #
 #
