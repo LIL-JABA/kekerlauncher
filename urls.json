@@ -1,16 +1,8 @@
 {
-    "Download":{
-        "valkeker":"https://github.com/LIL-JABA/valchecker/archive/refs/heads/main.zip"
-    },
-    "Checksum":{
-        "valkeker":"not given from owner"
-    },
-    "Requirements":{
-        "valkeker":"not given from owner"
-    },
     "Miscellaneous":{
         "pip":"https://bootstrap.pypa.io/get-pip.py",
-        "version":"",
-        "kekers":""
+        "version":"https://raw.githubusercontent.com/WeCanCodeTrust/kekerlauncher/main/version",
+        "kekers":"https://raw.githubusercontent.com/WeCanCodeTrust/kekerlauncher/main/kekers.md",
+        "kekerlauncher":"-"
     }
 }
